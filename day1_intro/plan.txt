@@ -1,0 +1,10 @@
+1.  Is everyone on Piazza?
+2.  Is everyone on LRC machines?
+3.  Linux familiarity -- raise hands.
+4.  Everyone has CLion?
+5.  Intro Shikhar
+6.  Exam schedule -- check to see if okay with everyone
+7.  Syllabus -- cheating, SSD, how to send emails, ONLY written communication allowed
+8.  Schedule
+9.  Assignments -- get harder, no compromise on methodology
+10. Makefile, compile, run

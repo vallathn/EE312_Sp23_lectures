@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vn2783/github_repos/EE312-lectures/day1_intro/classroom_example/main.c
+stdio.h
+-
+
+/Users/vn2783/github_repos/EE312-lectures/day1_intro/classroom_example/pmm.c
+stdio.h
+-
+
