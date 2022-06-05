@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="mario (ed9d602e-5713-4943-bc67-850eaeedf9ef)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../../../EE312-lectures-Sp22/day2_moreC/variable_types" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

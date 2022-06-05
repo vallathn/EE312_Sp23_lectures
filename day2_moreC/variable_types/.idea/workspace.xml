@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="variable_types" targetName="variable_types" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69bef85e-c9fc-4d1c-8246-04438c759a46" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/.idea/AM_hw.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/.cmake/api/v1/reply/cache-v2-189b70098ed154cf514e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-35915a141cb735e01cfd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-71147821701f5fc6b356.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/.cmake/api/v1/reply/index-2022-01-19T19-12-17-0687.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/.cmake/api/v1/reply/target-AM_hw-Debug-f691520b7c23cd826a3c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-d1b24e7887eff5ad0960.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/AM_hw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/CMakeFiles/AM_hw.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/AM_hw/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/.idea/PM_hw1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-70ec54c55f50c0414953.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-841d6c4d4a86a1afb73e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-e213e9d5938270e9a1e5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/.cmake/api/v1/reply/index-2022-01-19T22-04-03-0129.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/.cmake/api/v1/reply/target-PM_hw1-Debug-a91553ec7641a15dd583.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-d1b24e7887eff5ad0960.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/CMakeFiles/PM_hw1.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/PM_hw1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/PM_hw1/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/F22/mypgm.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day1_intro/hw.c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1nMGiMe8glqqLcEUAJ6i0f3giIe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="variable_types" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="variable_types" TARGET_NAME="variable_types" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="variable_types" RUN_TARGET_NAME="variable_types">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69bef85e-c9fc-4d1c-8246-04438c759a46" name="Default Changelist" comment="" />
+      <created>1611192671244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611192671244</updated>
+      <workItem from="1611192673066" duration="2183000" />
+      <workItem from="1623080521838" duration="1460000" />
+      <workItem from="1630214378198" duration="181000" />
+      <workItem from="1630444836790" duration="68000" />
+      <workItem from="1630445025148" duration="1360000" />
+      <workItem from="1642990116652" duration="108000" />
+      <workItem from="1654462695956" duration="68000" />
+      <workItem from="1654462770077" duration="42000" />
+      <workItem from="1654462835423" duration="51000" />
+      <workItem from="1654462960365" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/variable_types.c</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
