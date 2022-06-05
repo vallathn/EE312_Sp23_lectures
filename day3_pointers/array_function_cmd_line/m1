@@ -1,0 +1,19 @@
+# Makefile for arrayFunction
+# Day 3 EE 312
+test: got_output.txt
+	-colordiff golden_out.txt got_output.txt
+
+got_output.txt: arrayFunction
+	arrayFunction > got_output.txt
+
+arrayFunction: arrayFunction.o main.o
+	gcc -o arrayFunction arrayFunction.o main.o
+
+arrayFunction.o: arrayFunction.c arrayFunction.h
+	gcc -c arrayFunction.c
+
+main.o: main.c arrayFunction.h
+	gcc -c main.c
+
+clean: 
+	/bin/rm -f *.o arrayFunction got_output.txt

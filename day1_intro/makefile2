@@ -1,0 +1,12 @@
+
+
+Cake: bakedcake icing
+	put the icing on the bakedcake
+bakedcake: batter
+	bake the batter
+icing: butter.c sugar.c
+	cream together butter and sugar
+batter: flour.c eggs.c
+	beat together flour and eggs
+clean: 
+	remove icing batter Cake

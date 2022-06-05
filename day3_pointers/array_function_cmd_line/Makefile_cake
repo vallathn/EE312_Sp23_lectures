@@ -1,0 +1,19 @@
+
+
+eat: cake
+	eat cake
+
+cake: plain_cake icing
+	ice plain_cake 
+
+plain_cake: batter
+	bake batter
+
+batter: flour sugar
+	mix flour sugar
+
+icing: sugar butter
+	mix sugar butter
+
+clean: 
+	discard plain_cake batter 

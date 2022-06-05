@@ -1,0 +1,9 @@
+Storage size for int: 4 
+Storage size for int: 4 
+Storage size for pointer: 8 
+Storage size for string: 4 
+Storage size for char array: 3 
+in is abdcE
+upper is ABDCE
+Hi,  How     Are You?
+All done!

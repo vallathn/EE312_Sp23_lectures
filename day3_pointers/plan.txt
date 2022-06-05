@@ -1,0 +1,4 @@
+Slides 1-12
+Write arrayFunction program on CLion
+Show debugger
+Continue slides

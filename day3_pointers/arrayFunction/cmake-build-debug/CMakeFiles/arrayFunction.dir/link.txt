@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/arrayFunction.dir/arrayFunction.c.o CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.o -o arrayFunction 
