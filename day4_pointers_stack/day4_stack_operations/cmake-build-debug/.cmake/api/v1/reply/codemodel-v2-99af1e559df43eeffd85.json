@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "day5_stack_operations",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "day4_stack_operations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-day4_stack_operations-Debug-ef6067cf86052ccac057.json",
+					"name" : "day4_stack_operations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug",
+		"source" : "/Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

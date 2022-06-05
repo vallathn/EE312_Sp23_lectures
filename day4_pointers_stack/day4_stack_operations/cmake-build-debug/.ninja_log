@@ -1,0 +1,5 @@
+# ninja log v5
+1	200	1643583774570805476	CMakeFiles/day5_stack_operations.dir/stack_operations.c.o	5255a22b3e7abe69
+201	277	1643583774648062265	day5_stack_operations	9dd7915201becced
+0	133	1643583808864834692	CMakeFiles/day4_stack_operations.dir/stack_operations.c.o	a738a82ec5c77617
+133	204	1643583808937262707	day4_stack_operations	3b4da0331588c19c

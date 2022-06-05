@@ -1,0 +1,3 @@
+/Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/CMakeFiles/day4_stack_operations.dir

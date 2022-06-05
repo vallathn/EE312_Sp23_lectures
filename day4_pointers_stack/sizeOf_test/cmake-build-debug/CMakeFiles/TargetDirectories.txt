@@ -1,0 +1,3 @@
+/Users/vallathn/EE312-lectures-Sp22/day4_pointers_stack/sizeOf_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vallathn/EE312-lectures-Sp22/day4_pointers_stack/sizeOf_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vallathn/EE312-lectures-Sp22/day4_pointers_stack/sizeOf_test/cmake-build-debug/CMakeFiles/sizeOf_test.dir
