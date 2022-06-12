@@ -2,7 +2,6 @@
 #include <math.h>
 
 int global_x;
-void extra_function();
 
 int main() {
     // http://www.cplusplus.com/reference/cstdio/printf/
@@ -22,26 +21,23 @@ int main() {
     printf("%c\n", c);
     printf("%d\n", c);
 
-    char arr [] = {'H', 'e', 'l', 'l', 'b'};
-    printf("%lu\n", sizeof(arr));
 
     unsigned y = 2;
     printf("%u\n", y);
 
     float f1 = 4/3;
+    f1 = 4.3;
     printf("%f %lu\n", f1, sizeof(unsigned));
     f1 = 4.0/3;
     printf("%f %lu\n", f1, sizeof(float));
 
     double f2 = sqrt(2);
     printf("%f %lu\n", f2, sizeof(f2));
-    printf("%.24f\n", f2);
+    printf("%f24\n", f2);
 
     float* f1p = &f1;
+    f1p = &f2;
     printf("%p %lu\n", f1p, sizeof(f1p));
-
-    extra_function();
-
     int x = 'a' + 1024;
     char d = x;
     printf("char d  = %c\n", d);

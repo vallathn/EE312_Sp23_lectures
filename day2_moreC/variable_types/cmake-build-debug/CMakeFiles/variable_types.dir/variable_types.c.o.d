@@ -1,5 +1,5 @@
-CMakeFiles/variable_types.dir/additional.c.o: \
-  /Users/vn2783/github_repos/EE312_Sum_22_lectures/day2_moreC/variable_types/additional.c \
+CMakeFiles/variable_types.dir/variable_types.c.o: \
+  /Users/vn2783/github_repos/EE312_Sum_22_lectures/day2_moreC/variable_types/variable_types.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/sys/cdefs.h \
@@ -32,4 +32,5 @@ CMakeFiles/variable_types.dir/additional.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_off_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_ssize_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/secure/_stdio.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/secure/_common.h
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/secure/_common.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/math.h
