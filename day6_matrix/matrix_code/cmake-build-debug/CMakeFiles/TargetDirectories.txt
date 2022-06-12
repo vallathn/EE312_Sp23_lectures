@@ -1,0 +1,3 @@
+/Users/vallathn/EE312-lectures-Sp22/day6_matrix/matrix_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vallathn/EE312-lectures-Sp22/day6_matrix/matrix_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vallathn/EE312-lectures-Sp22/day6_matrix/matrix_code/cmake-build-debug/CMakeFiles/matrix_code.dir
