@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -DPOLAR -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/sp22_3pm.dir/main.c.o CMakeFiles/sp22_3pm.dir/Complex.c.o -o sp22_3pm 
