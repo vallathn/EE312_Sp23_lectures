@@ -1,3 +1,13 @@
 ee312-day3-4pointers.pdf
 arrayFun_sp22_PM
 arrayFunction_sp22
+arrayFun_sp22_PM:
+arrayFunction.c
+arrayFunction.h
+
+arrayFunctionSum22:
+ArrayFunctionMain.c
+CMakeLists.txt
+arrayFunctions.c
+arrayFunctions.h
+cmake-build-debug
