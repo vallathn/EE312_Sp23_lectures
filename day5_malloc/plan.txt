@@ -1,0 +1,4 @@
+
+Finish stack_operations from lecture 4.
+Show slides for heap and malloc.
+Write code malloc_operations
