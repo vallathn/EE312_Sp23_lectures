@@ -1,4 +1,4 @@
-# Install script for directory: /Users/vallathn/EE312-lectures-Sp22/day6_matrix/matrix_code
+# Install script for directory: /Users/vn2783/github_repos/EE312_Sum_22_lectures/day6_matrix/matrix_code
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/vallathn/EE312-lectures-Sp22/day6_matrix/matrix_code/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/vn2783/github_repos/EE312_Sum_22_lectures/day6_matrix/matrix_code/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

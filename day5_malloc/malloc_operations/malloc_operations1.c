@@ -20,11 +20,12 @@ int main() {
     printf("2. String = %s, Address = %p\n", str, str) ;
     printf("3. String old = %s, Address old = %p\n", str_old, str_old) ; // not kosher, since str_old refers to freed memory
 
-    free(str);
+    free(str); // d00000
     str = 0;
-    // free(str_old);
-    // free(str);
-    // free(str);
+    printf("str = %p, str_old = %p\n ", str, str_old);
+    //free(str_old); // x...5860
+    free(str);
+    free(str);
 
 //    int n = 10;
 //    int A[n];
