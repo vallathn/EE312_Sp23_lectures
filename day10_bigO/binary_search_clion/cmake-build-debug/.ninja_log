@@ -1,0 +1,17 @@
+# ninja log v5
+0	80	1655690606168945932	CMakeFiles/binary_search_clion.dir/binary_search.c.o	3830ef1256e40817
+81	128	1655690606217786075	binary_search_clion	2de9be0f3a2b2d00
+1	147	1655691788555918968	CMakeFiles/binary_search_clion.dir/binary_search.c.o	3830ef1256e40817
+147	218	1655691788628820359	binary_search_clion	2de9be0f3a2b2d00
+1	160	1655691877091031601	CMakeFiles/binary_search_clion.dir/binary_search.c.o	3830ef1256e40817
+160	221	1655691877154605928	binary_search_clion	2de9be0f3a2b2d00
+1	143	1655691967904038627	CMakeFiles/binary_search_clion.dir/binary_search.c.o	3830ef1256e40817
+143	192	1655691967955797028	binary_search_clion	2de9be0f3a2b2d00
+1	82	1655691989863723336	CMakeFiles/binary_search_clion.dir/binary_search.c.o	3830ef1256e40817
+82	141	1655691989923427201	binary_search_clion	2de9be0f3a2b2d00
+1	166	1655692006680893750	CMakeFiles/binary_search_clion.dir/binary_search.c.o	3830ef1256e40817
+166	224	1655692006739087550	binary_search_clion	2de9be0f3a2b2d00
+0	57	1655692026431010338	CMakeFiles/binary_search_clion.dir/binary_search.c.o	3830ef1256e40817
+57	107	1655692026482708715	binary_search_clion	2de9be0f3a2b2d00
+1	195	1655692343036413161	CMakeFiles/binary_search_clion.dir/binary_search.c.o	3830ef1256e40817
+195	258	1655692343101537697	binary_search_clion	2de9be0f3a2b2d00

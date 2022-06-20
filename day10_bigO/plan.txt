@@ -1,0 +1,10 @@
+EE 312
+Day 10, Big-O
+
+1.  Continue binary search program -- measurement of time.
+
+2.  Slides for big-0. Show examples.
+
+3.  Show them a video from algorythmics on binary search, explaining the steps.
+
+4.  Project 4 review
