@@ -7,4 +7,4 @@ Day 10, Big-O
 
 3.  Show them a video from algorythmics on binary search, explaining the steps.
 
-4.  Project 4 review
+4.  Project 3 review
