@@ -1,0 +1,9 @@
+EE 312, Fall 2020 Day 12 catchup
+
+Stack_structure // in review
+Explain deep and shallow copy of structs, and explain how array variables cannot be reassigned. // in review
+merge_sorted_arrays
+static variables
+function pointers
+LinkedList
+For morning, do the Big-O examples that we did not complete from the last lecture.

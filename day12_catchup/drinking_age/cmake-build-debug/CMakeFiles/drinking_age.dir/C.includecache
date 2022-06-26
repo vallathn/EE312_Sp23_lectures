@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vn2783/312_Lectures_F20/day12_catchup/drinking_age/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

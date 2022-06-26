@@ -1,0 +1,12 @@
+
+EE 312, Spring 2022 Day 14 review
+
+Big-O quiz review
+Stack_structure
+Explain deep and shallow copy of structs, and explain how array variables cannot be reassigned.
+Do Exam 1 Sp13 midterm
+
+12 noon class
+______________
+Do function pointers
+Do LinkedList

@@ -1,0 +1,8 @@
+Write a void function foo that counts the number of times it is called, and prints it out each time it is called.
+
+Calling foo #1
+Calling foo #2
+
+etc.  
+
+Use the best style you can.
