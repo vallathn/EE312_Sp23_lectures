@@ -1,0 +1,13 @@
+EE 312, Su 22, Day 14
+______________________
+Write printReverse
+Write array_sum
+Show slides
+Write fibonacci recursive
+Run fibonacci recursive, showing time complexity
+Show stack frame when running fibonacci recursive
+Show time calculation of fibonacci recursive
+Show binary search recursive
+IF there is time,
+Show merge sort with cards
+Show merge sort program
