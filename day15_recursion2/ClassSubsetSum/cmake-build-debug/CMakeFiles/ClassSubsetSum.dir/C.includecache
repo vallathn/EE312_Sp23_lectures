@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vn2783/github_repos/EE312-lectures/day16_recusion2/ClassSubsetSum/main.c
+stdint.h
+-
+stddef.h
+-
+stdio.h
+-
+stdbool.h
+-
+
