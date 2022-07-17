@@ -1,0 +1,55 @@
+Write a recursive function destroy to delete a Node.
+
+struct Node {
+	int val;
+	Node* next;
+};
+
+void destroy(Node* root) {
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+void destroy(Node* root) {
+	if (root->next == NULL)
+		delete root;
+	Node* next = root->next;
+	delete root;
+	destroy(next);
+
+}
+void destroy(Node* root) {
+	if (root == NULL) return;
+	destroy(root->next);
+	delete root;
+}
+
+print, find, using recursion
+insert at end using recursion
+
+// class function
+Node* insert_at_end(int val, Node* root) {
+	if (root == NULL) 
+		root = new Node(val);
+}
+
+
+
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Vector2_sum21.dir/main.cpp.o CMakeFiles/Vector2_sum21.dir/Vector.cpp.o -o Vector2_sum21 

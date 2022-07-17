@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LinkedListSp22_noon",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LinkedListSp22_noon::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LinkedListSp22_noon-Debug-5cef8ee1615d152f927f.json",
+					"name" : "LinkedListSp22_noon",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/vn2783/github_repos/EE312_Sum_22_lectures/day19_linkedList/LinkedListSp22_noon/cmake-build-debug",
+		"source" : "/Users/vn2783/github_repos/EE312_Sum_22_lectures/day19_linkedList/LinkedListSp22_noon"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

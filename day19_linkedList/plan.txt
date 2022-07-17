@@ -1,0 +1,12 @@
+1. Ask them to write Node* recursive_copy(Node* other)
+
+    Node* recursive_copy(Node* other) {
+        if (other == nullptr)
+            return nullptr;
+        Node* n = new Node();
+        n->val = other->val;
+        n->next = recursive_copy(other->next);
+    }
+
+2. Finish LinkedList
+3. Go over recursion hints

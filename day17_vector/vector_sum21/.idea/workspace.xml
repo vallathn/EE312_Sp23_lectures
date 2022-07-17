@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="vector_sum21" targetName="vector_sum21" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d35f6eb-cfd8-499f-8d43-1e2b0f97ae17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/.idea/Reference Instapoll.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/Reference_Instapoll.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/Reference_Instapoll.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/Reference_Instapoll.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/Reference_Instapoll.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/Reference_Instapoll.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/Reference_Instapoll.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/Reference_Instapoll.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/Reference_Instapoll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/Reference_Instapoll.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reference Instapoll/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/.idea/STLVector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/STLVector.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/STLVector.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/STLVector.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/STLVector.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/STLVector.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/STLVector.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/STLVector.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/STLVector.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/STLVector.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/STLVector.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/STLVector" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/STLVector.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../STLVector/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vector.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ee312-day17-references.ppt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ee312_day10_const.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ee312_day17_references_questions.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/.idea/reference_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/.cmake/api/v1/reply/cache-v2-df2a6466ba59dc7f083b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-6cf4105f9befec003f6a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-81a3a50faa0c96f5f3f2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/.cmake/api/v1/reply/index-2022-03-28T01-31-18-0606.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/.cmake/api/v1/reply/target-reference_test-Debug-67d1b4846b02d9c9099f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-706a59356d463e6951b7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/reference_test.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/reference_test.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/reference_test.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/reference_test.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/reference_test.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/reference_test.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/reference_test.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/reference_test.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/reference_test.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/reference_test.dir/reference_test.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/CMakeFiles/reference_test.dir/reference_test.cpp.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/reference_test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/cmake-build-debug/reference_test.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reference_test/reference_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vector_sum21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vector.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-vector_sum21-Debug-d1d2e8a79e67223b3563.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-706a59356d463e6951b7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/vector_sum21.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/vector_sum21.dir/Vector.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/vector_sum21.dir/Vector.cpp.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/vector_sum21.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/vector_sum21.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/vector_sum21.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/vector_sum21.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/vector_sum21.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/vector_sum21.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/vector_sum21.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/vector_sum21.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/vector_sum21.dir/main.cpp.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/vector_sum21.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vector_sum21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vector_sum21.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vector_sum21.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/vector_sum21.dSYM/Contents/Resources/DWARF/vector_sum21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vector_test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/.idea/Vector2_sum21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/Vector.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/Vector.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c7c62bc392296ff1b44d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-ae9e896d7998b8f3fc44.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8429b80d2e7e07b3be8f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/.cmake/api/v1/reply/index-2022-03-28T01-40-58-0953.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/.cmake/api/v1/reply/target-Vector2_sum21-Debug-f14acf5cc13100131681.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-706a59356d463e6951b7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/Vector2_sum21.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/Vector2_sum21.dir/Vector.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/Vector2_sum21.dir/Vector.cpp.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/Vector2_sum21.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/Vector2_sum21.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/Vector2_sum21.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/Vector2_sum21.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/Vector2_sum21.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/Vector2_sum21.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/Vector2_sum21.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/Vector2_sum21.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/Vector2_sum21.dir/main.cpp.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/Vector2_sum21.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/Vector2_sum21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/Vector2_sum21.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/ee312_day18_vector2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day18_vector2/ee312_day18_vector2_iClicker.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/.idea/LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/LinkedListSolution.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/LinkedList" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/LinkedList.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/.idea/LinkedList_C_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/LinkedList_C_class.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/LinkedList_C_class.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/LinkedList_C_class.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/LinkedList_C_class.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/LinkedList_C_class.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/LinkedList_C_class.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/LinkedList_C_class.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/LinkedList_C_class.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/LinkedList_C_class/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/recitation_slide/InvalidFree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/recitation_slide/InvalidFree.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/recitation_slide/InvalidReadWrite.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/recitation_slide/LinkedList.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/recitation_slide/LinkedListSolution.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/recitation_slide/MemoryLeak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/recitation_slide/MemoryLeak.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/recitation_slide/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/recitation_slide/uninitialized" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedLIst in C/recitation_slide/uninitialized.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/.idea/LinkedListCPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/LinkedListMain.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f3aa02566dbc1571cca8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-24951ff32ebc52c5d92c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ad43b26b70ad3cf8f93d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/.cmake/api/v1/reply/index-2022-04-03T23-14-19-0392.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/.cmake/api/v1/reply/target-LinkedListCPP-Debug-ba5d2035059a5548f0f2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-706a59356d463e6951b7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/LinkedListCPP.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/LinkedListCPP.dir/LinkedListMain.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/LinkedListCPP.dir/LinkedListMain.cpp.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/LinkedListCPP.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/LinkedListCPP.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/LinkedListCPP.dir/compiler_depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/LinkedListCPP.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/LinkedListCPP.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/LinkedListCPP.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/LinkedListCPP.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/LinkedListCPP.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/LinkedListCPP.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/LinkedListCPP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/LinkedListCPP.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/LinkedListCPP.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/LinkedListCPP.dSYM/Contents/Resources/DWARF/LinkedListCPP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/.idea/LinkedListSp22_noon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/LinkedList.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/.cmake/api/v1/reply/cache-v2-4f27b60fc8ee46919de5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-fc225d31ec08b8836f19.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-fa67ab5d43b677f06918.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/.cmake/api/v1/reply/index-2022-04-03T23-17-24-0301.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/.cmake/api/v1/reply/target-LinkedListSp22_noon-Debug-7b627520e51578d0f494.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-706a59356d463e6951b7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListSp22_noon/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/ee312_day19_linked_list.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/plan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/recursive_functions/destroy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/recursive_functions/recursive_functions.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/.idea/reference_example1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c034c95d544b93588003.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-29be29c441fc3e7c3072.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5e710373028d8baf279f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/.cmake/api/v1/reply/index-2022-04-04T01-15-22-0210.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/.cmake/api/v1/reply/target-reference_example1-Debug-5b7d5ce26310fdf9d8d7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-706a59356d463e6951b7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/reference_example1.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/cmake-build-debug/reference_example1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day19_linkedList/reference_example1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/.cmake/api/v1/reply/cache-v2-71d11be391a4faffb1f9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-c6c1650129daef1e84f6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-438cf76b6a720aeba399.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/.cmake/api/v1/reply/index-2022-02-28T20-30-52-0539.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/LinkedListSolution.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/LinkedListSolution.c.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/LinkedList_solution.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/LinkedList_solution.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/LinkedList_solution.c.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/LinkedList_solution.c.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/compiler_depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/LinkedList" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/LinkedList" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/LinkedList.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/LinkedList.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day14_recursion/Binary_search_code/cmake-build-debug/CMakeFiles/Binary_search_code.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../day14_recursion/Binary_search_code/cmake-build-debug/CMakeFiles/Binary_search_code.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day14_recursion/Binary_search_code/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day14_recursion/Binary_search_code/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day14_recursion/Fibonacci_code/cmake-build-debug/CMakeFiles/Fibonacci_code.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../day14_recursion/Fibonacci_code/cmake-build-debug/CMakeFiles/Fibonacci_code.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day14_recursion/Fibonacci_code/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day14_recursion/Fibonacci_code/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1vXRGLBja2YVIIerIgYGIEiQCm4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vector_sum21" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vector_sum21" TARGET_NAME="vector_sum21" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="vector_sum21" RUN_TARGET_NAME="vector_sum21">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d35f6eb-cfd8-499f-8d43-1e2b0f97ae17" name="Default Changelist" comment="" />
+      <created>1626706351078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626706351078</updated>
+      <workItem from="1626706354733" duration="633000" />
+      <workItem from="1626708336597" duration="2221000" />
+      <workItem from="1626731630458" duration="208000" />
+      <workItem from="1648430941092" duration="20000" />
+      <workItem from="1658097041124" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <condition expression="i==len/2" language="ObjectiveC" />
+          <url>file://$PROJECT_DIR$/Vector.cpp</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

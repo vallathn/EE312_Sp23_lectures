@@ -1,0 +1,18 @@
+
+
+EE 312 Day 17 Vector, Summer 2020
+
+1. The difference between references and pointers is that calling a function that takes references is cleaner, syntactically, than calling a function that takes pointers.
+2. Assigning to a reference variable is like assigning to the variable at the address.
+3. Scoping rules -- scope within {}
+4. C++ -- may declare variables anywhere, as long as it is before they are used.
+5. const -- says that the variable may not be changed.
+6. constructor:
+	automatically called
+	this is implicit parameter; it is a pointer to uninitialized block of memory
+7. destructor
+	called when object goes out of scope
+	or when delete <pointer of object created by new> is called
+8.  new and delete
+	new allocates memory, then initializes memory
+	delete calls destructor, then frees memory.

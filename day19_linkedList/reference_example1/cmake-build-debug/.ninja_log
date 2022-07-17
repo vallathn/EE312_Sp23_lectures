@@ -1,0 +1,5 @@
+# ninja log v5
+1	524	1649035036071646880	CMakeFiles/reference_example1.dir/main.cpp.o	35471927b6b5ab31
+525	604	1649035036152694266	reference_example1	18448f879d1548bf
+2	513	1649035100211822903	CMakeFiles/reference_example1.dir/main.cpp.o	35471927b6b5ab31
+513	574	1649035100277835546	reference_example1	18448f879d1548bf
