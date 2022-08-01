@@ -1,0 +1,10 @@
+
+Day 21, Map, Tokens etc.
+Spring 2022
+
+Show iterator slides
+Show Map code
+Show Template code
+Show Token code
+
+Let them write a destructor for Node and for BT.

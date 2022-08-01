@@ -1,0 +1,15 @@
+
+parse (reference to string expression) returns int
+	// expression is a string of words separated by spaces
+	// expression cannot be empty
+	// Only legal expressions are handled
+
+	Remove first word in expression
+	First = removed word
+	if (First is not an operator)
+		return First; WE ARE DONE!
+	else First is an operator, so ...
+		int arg1 = call parse(expression)
+		int arg2 = call parse(expression)
+		return result of operation First on arguments arg1 and arg2
+	WE ARE DONE!

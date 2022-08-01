@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="template" targetName="template" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3de9d42-e61b-4b8b-b766-2cb9105953b6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../da23_templates_catchup/Template_sum_2020/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../da23_templates_catchup/Template_sum_2020/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../da23_templates_catchup/template/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../da23_templates_catchup/template/template.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../da23_templates_catchup/template_iclicker.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day17_vector/sum21-vector1/Vector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day17_vector/sum21-vector1/Vector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day17_vector/sum21-vector1/Vector.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../day17_vector/sum21-vector1/Vector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/expression_tree_main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/expression_tree_main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day3_pointers/arrayFunction/ArrayFunctionMain.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../day3_pointers/arrayFunction/ArrayFunctionMain.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day4_pointers_stack/day4_stack_operations/stack_operations.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../day4_pointers_stack/day4_stack_operations/stack_operations.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day5_malloc/malloc_operations/malloc_operations1.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../day5_malloc/malloc_operations/malloc_operations1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day8_more_structs/drinking_age/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../day8_more_structs/drinking_age/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="693" />
+  </component>
+  <component name="ProjectId" id="211747SBZPjC96XHn4DY6cLgTGw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="CMake Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="template" TARGET_NAME="template" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="template" RUN_TARGET_NAME="template">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="template" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="template" TARGET_NAME="template" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="template" RUN_TARGET_NAME="template">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Build All" />
+      <item itemvalue="CMake Application.template" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3de9d42-e61b-4b8b-b766-2cb9105953b6" name="Default" comment="" />
+      <created>1511898366592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511898366592</updated>
+      <workItem from="1511898368477" duration="801000" />
+      <workItem from="1522874208275" duration="252000" />
+      <workItem from="1522949602273" duration="1319000" />
+      <workItem from="1522959787720" duration="931000" />
+      <workItem from="1532910353534" duration="401000" />
+      <workItem from="1532962317553" duration="1260000" />
+      <workItem from="1564351171119" duration="306000" />
+      <workItem from="1564411634175" duration="955000" />
+      <workItem from="1573418698720" duration="178000" />
+      <workItem from="1573597681130" duration="513000" />
+      <workItem from="1595803119807" duration="18000" />
+      <workItem from="1595806745532" duration="167000" />
+      <workItem from="1595861813913" duration="189000" />
+      <workItem from="1637096550222" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/template.cpp</url>
+          <line>27</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/template.cpp</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/template.cpp</url>
+          <line>38</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
