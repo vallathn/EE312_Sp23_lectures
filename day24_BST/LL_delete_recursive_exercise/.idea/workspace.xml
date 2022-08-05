@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="LL_delete_recursive_exercise" targetName="LL_delete_recursive_exercise" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f6c1e8a-0e60-4aa2-b9c2-f3aa9305bf89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../day11_sort_search/binary_search_clion/binary_search.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../day11_sort_search/binary_search_clion/binary_search.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day14_data_structures/linked_list/LinkedList.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../day14_data_structures/linked_list/LinkedList.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day14_data_structures/linked_list_sp21/LinkedList.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../day14_data_structures/linked_list_sp21/LinkedList.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day14_data_structures/linked_list_sp21/LinkedList.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../day14_data_structures/linked_list_sp21/LinkedList.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day15_recursion/Binary_search_code/EE312_day14_binary_search.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../day15_recursion/Binary_search_code/EE312_day14_binary_search.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day15_recursion/Fibonacci_code/EE312_recursion.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../day15_recursion/Fibonacci_code/EE312_recursion.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day17_oop/point_sp21/Point.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day17_oop/point_sp21/Point.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day17_oop/point_sp21/Point.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../day17_oop/point_sp21/Point.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day19_vector2/Vector2_spring21/Vector.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day19_vector2/Vector2_spring21/Vector.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day19_vector2/Vector2_spring21/Vector.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../day19_vector2/Vector2_spring21/Vector.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_binary_trees/TreeTraversal/BT.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../day21_binary_trees/TreeTraversal/BT.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_binary_trees/TreeTraversal/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day21_binary_trees/TreeTraversal/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1r2pNcKlimDEzo5FBuqatOaZGeA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LL_delete_recursive_exercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LL_delete_recursive_exercise" TARGET_NAME="LL_delete_recursive_exercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LL_delete_recursive_exercise" RUN_TARGET_NAME="LL_delete_recursive_exercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f6c1e8a-0e60-4aa2-b9c2-f3aa9305bf89" name="Default Changelist" comment="" />
+      <created>1618183999730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618183999730</updated>
+      <workItem from="1618184001049" duration="330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="195" key="GridCell.Tab.0.bottom" timestamp="1618184330756">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1618184330756" />
+    <state width="1358" height="195" key="GridCell.Tab.0.center" timestamp="1618184330756">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1618184330756" />
+    <state width="1358" height="195" key="GridCell.Tab.0.left" timestamp="1618184330755">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1618184330755" />
+    <state width="1358" height="195" key="GridCell.Tab.0.right" timestamp="1618184330756">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1618184330756" />
+    <state width="1358" height="195" key="GridCell.Tab.1.bottom" timestamp="1618184330758">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1618184330758" />
+    <state width="1358" height="195" key="GridCell.Tab.1.center" timestamp="1618184330757">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1618184330757" />
+    <state width="1358" height="195" key="GridCell.Tab.1.left" timestamp="1618184330757">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1618184330757" />
+    <state width="1358" height="195" key="GridCell.Tab.1.right" timestamp="1618184330757">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1618184330757" />
+  </component>
+</project>

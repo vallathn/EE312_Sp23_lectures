@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/vallathn/Box Sync/EE312_su_2018/Lectures/day24_binary_search_tree/LinkedListRecursive"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/vallathn/Box Sync/EE312_su_2018/Lectures/day24_binary_search_tree/LinkedListRecursive/cmake-build-debug
