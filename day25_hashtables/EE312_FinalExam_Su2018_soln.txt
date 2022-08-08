@@ -1,0 +1,308 @@
+
+1) a) 
+int triangle(int rows) {
+  if (rows == 0) {
+    return 0;
+  } else {
+    return rows + triangle(rows - 1);
+  }
+}
+
+1) b) 
+
+int countPairs(char* str, size_t n) {
+  if (n < 3) return 0;
+  if (str[0] == str[2]) return 1 + countPairs(str+1 ,n-1);
+  else return countPairs(str+1, n-1);
+}
+
+1) c)
+
+bool isFull (Node* n)
+{
+    if (n == NULL)
+        return true;
+    if (n->left == NULL && n->right == NULL)
+        return true;
+    if ((n->left) && (n->right))
+        return (isFull(n->left) && isFull(n->right));
+    return false;
+}
+
+1) e)
+int inOrder(Node* n, vector<int> a)
+{
+    if (node == NULL)
+         return 0;
+    int m = 1;
+    m += inorder(node->left, a);
+    a.push_back(node->val)
+    m += inorder(node->right, a);    
+    return m;
+}
+
+1) f) 
+bool isBST(Node* node) 
+{ 
+  vector<int> a;
+  inOrder(node, a);
+  return (isSorted(a));
+} 
+
+2) a)
+
+class RAM
+{
+    public:    
+        int capacity[10];
+        static int counter = 0;
+    
+        RAM()
+        {
+            for(int i=0;i<10;i++){
+                capacity[i] = 0;    
+            }
+        }
+
+        // this constructor is not required as part of the answer
+        RAM(int arr[])
+        {
+            for(int i=0;i<10;i++)
+                capacity[i] = arr[i];
+        }
+
+        int read()
+        {                
+            if(counter == 10) 
+                counter=0;
+            int result = capacity[counter];
+            counter++;        
+            return result;
+            
+        }
+};
+
+class ROM
+{
+    public:    
+        int value;
+    
+        // this constructor is not required as part of the answer
+        ROM()
+        {
+            value = 0;    
+        }
+
+        // this constructor is required as part of the answer.
+        ROM(int val)
+        {
+            value = val;
+        }
+
+        int read()
+        {                        
+            return value;
+        }    
+};
+
+class Register
+{    
+    public:
+        char arr[4];
+
+    // Any one constructor is enough
+    Register()
+    {    
+        for(int i=0;i<4;i++){
+            arr[i] = '0';    
+        }
+    }
+
+    Register(char array[])
+    {    
+        for(int i=0;i<4;i++){
+            arr[i] = array[i];    
+        }
+    }
+
+    void swap(int source, int dest)
+    {
+        char temp = arr[source];
+        arr[source] = arr[dest];
+        arr[dest] = temp;    
+    }
+};
+
+class Disk
+{
+    public:
+        RAM* list;
+        int size;
+    
+    Disk(int size)
+    {
+        this->size = size;
+        list = new RAM[size];
+            
+    }
+
+    ~Disk()
+    {
+        delete[] list;
+    }
+
+    void copy(const Disk& d) {
+        size = d.size;
+        list = new RAM[size];
+        for (int i = 0; i < size; i++) {
+            list[i] = d.list[i];
+        }
+    }
+
+    Disk(const Disk& d)
+    {
+        copy(d);
+    }
+
+    Disk& operator=(const Disk& rhs) {
+        if (this != &rhs) {
+            delete [] list;
+            copy(rhs);
+        }
+        return *this;
+    }
+
+    // Function below not needed
+    int size(RAM* list)
+    {    
+        return sizeof(list)/sizeof(list[0]);    
+    }
+    
+    void clear()
+    {
+        for(int i=0;i<size;i++){
+            for(int j=0;j<10;j++){
+                list[i][j] = 0;
+            }        
+        }
+    }
+}
+
+b) 
+
+            Storage 
+            ^     ^
+            |     |
+   CPU memory    Off-CPU memory (or read-only vs. R/W, and put ROM under read-only))
+           ^                ^
+           |                |
+RAM, ROM, Register         Disk
+
+c) 
+
+            Computer
+               ^
+               |
+			 --------------------------
+            | RAM, ROM, Register, DISK|
+                                  ^
+                                  |
+				RAM
+
+3) a)
+9 9 7 7 15 35
+
+b) Yes
+Foo::Foo(const Foo& f)
+
+c) Foo& Foo::operator=(const Foo& f)
+
+d) Foo::~Foo()
+
+e) Foo const const
+
+f) Foo& const NA
+
+4)
+a) Sort the array first. Get the middle element in the array and make it the root of the tree. Take all the elements in the left of the middle element in the array and put them recursively on the left side of the root. Take all the elements to the right of the centre element in the array and put them recursively in the right subtree of the root. This should give you the minimum height BST.
+
+b) 0, 3, 4, 6, 7, 8, 9, 10, 12, 15  
+
+                     9
+                    / \
+                   8   12
+                  / \  / \
+		 4  7 10 15
+		/ \  
+               3   6 
+              /        
+             0     
+c) 68
+d) 44
+e) 25 (or 15)
+f) 80 (or 70)
+g) 63 (or 49)
+
+h)
+
+struct Node
+{
+  int value;
+  vector<Node*> children;
+  Node* parent;
+};
+
+5) 
+a) 
+
+template <class T>
+class Array{
+    T* data;
+    int size_of_data;
+    T value_of_last_element_in_data;
+};
+
+b) 
+map<string, int> symbolTable = map<string, int>();
+void addToSymbolTable(){
+        string next = read_next_token();
+
+        if(next == "output"){
+        string var = read_next_token(); 
+        if(symbolTable.find(var) != symbolTable.end()) // small error permitted here	
+            std::cout<<symbolTable[read_next_token()]<<std::endl;
+        else
+            exit(1);
+        } else if(next == "var"){
+            symbolTable[read_next_token()] = 0;
+        } else if(next == "set"){
+            symbolTable[read_next_token()] = std::sstoi(read_next_token());
+        }
+}
+
+6) 
+a) 
+long hashCode(Point a)
+{
+    long combine = 1;
+    while(combine <= a.x_coord)
+        combine *= 10;
+    return a.x_coord * combine + a.y_coord;
+}
+
+b)
+int hash(long a)
+{
+    int index = a % getSize();
+    return index;
+}
+
+c) 
+0 -- 0, 2
+2 -- 9, 2
+3 --
+4 -- 4, 18
+5 -- 19
+6 --
+
+d) This is to keep the worst case access time as O(1) when it can be O(n) in separate chaining Hash tables.
