@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Inheritance" targetName="Inheritance" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="683f8dd6-f639-45c4-9399-87d0d2770a9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/.cmake/api/v1/reply/cache-v2-71d11be391a4faffb1f9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-c6c1650129daef1e84f6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-438cf76b6a720aeba399.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/.cmake/api/v1/reply/index-2022-02-28T20-30-52-0539.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/LinkedListSolution.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/LinkedListSolution.c.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/LinkedList_solution.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/LinkedList_solution.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/LinkedList_solution.c.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/LinkedList_solution.c.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/compiler_depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/LinkedList" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/LinkedList" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/LinkedList.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/LinkedList.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day12_catchup/LinkedLIst in C/LinkedList/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day14_recursion/Binary_search_code/cmake-build-debug/CMakeFiles/Binary_search_code.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../day14_recursion/Binary_search_code/cmake-build-debug/CMakeFiles/Binary_search_code.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day14_recursion/Binary_search_code/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day14_recursion/Binary_search_code/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day14_recursion/Fibonacci_code/cmake-build-debug/CMakeFiles/Fibonacci_code.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../day14_recursion/Fibonacci_code/cmake-build-debug/CMakeFiles/Fibonacci_code.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day14_recursion/Fibonacci_code/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day14_recursion/Fibonacci_code/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day17_vector/sum22_vector/.idea/sum22_vector.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day17_vector/sum22_vector/.idea/sum22_vector.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day17_vector/sum22_vector/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day17_vector/sum22_vector/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day17_vector/sum22_vector/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day17_vector/sum22_vector/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day17_vector/vector_sum21/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day17_vector/vector_sum21/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day17_vector/vector_sum21/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day17_vector/vector_sum21/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day18_vector2/Vector2_sum21/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/LinkedListMain.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/LinkedListMain.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day19_linkedList/LinkedListCPP/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day20_binary_trees/TreeTraversal/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day20_binary_trees/TreeTraversal/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/.cmake/api/v1/reply/cache-v2-1b828141e9212ac6a7e7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-16cf16034ba7193bb099.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-160a84af2754c382481a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/.cmake/api/v1/reply/index-2022-04-09T22-04-56-0480.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/.cmake/api/v1/reply/target-maps_code_class-Debug-af1d34910a61f8b9de01.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bc2add9ee6b3ed08514a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/3.21.1/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/3.21.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/3.21.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/3.21.1/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/maps_code_class.dir/map.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day21_maps/maps_code/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/.cmake/api/v1/reply/cache-v2-865e84138d7b9f6d2128.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-77cb9905743fb92db395.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8041f07348a8f9b7d309.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/.cmake/api/v1/reply/index-2022-04-12T22-26-24-0570.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Expression_Tree_CPP.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Expression_Tree_CPP.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Expression_Tree_CPP.dir/ExpTree.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Expression_Tree_CPP.dir/ExpTree.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Expression_Tree_CPP.dir/ExpTree.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Expression_Tree_CPP.dir/ExpTree.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Expression_Tree_CPP.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Expression_Tree_CPP.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Expression_Tree_CPP.dir/compiler_depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Expression_Tree_CPP.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Expression_Tree_CPP.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Expression_Tree_CPP.dir/expression_tree_main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Expression_Tree_CPP.dir/expression_tree_main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Expression_Tree_CPP.dir/expression_tree_main.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Expression_Tree_CPP.dir/expression_tree_main.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/Expression_Tree_CPP" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/Expression_Tree_CPP" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/Expression_Tree_CPP.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/Expression_Tree_CPP.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/Expression Tree CPP/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c74571f8acd4be27231d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-aaf7afeea388a076ee4a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1910f0736f470b6520ce.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/.cmake/api/v1/reply/index-2022-04-12T22-28-10-0907.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/expression_parser_polish.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/expression_parser_polish.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/expression_parser_polish.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/expression_parser_polish.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/expression_parser_polish.dir/compiler_depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/expression_parser_polish.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/expression_parser_polish.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/expression_parser_polish.dir/pn.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/expression_parser_polish.dir/pn.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/expression_parser_polish.dir/pn.cpp.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/CMakeFiles/expression_parser_polish.dir/pn.cpp.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/expression_parser_polish" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/expression_parser_polish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/expression_parser_polish.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day22_expressiontree/expression_parser_polish/cmake-build-debug/expression_parser_polish.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/.cmake/api/v1/reply/cache-v2-e15256aa9d525f56e8dc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-44031c0f0bcb9a9fe00f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-255ac11915d6ac94c1b7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/.cmake/api/v1/reply/index-2022-04-18T17-02-14-0305.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeFiles/exapple_class.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeFiles/exapple_class.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeFiles/exapple_class.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/CMakeFiles/exapple_class.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/example_class.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/example_class/cmake-build-debug/example_class.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/references/cmake-build-debug/.cmake/api/v1/reply/index-2022-08-01T02-25-20-0412.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/references/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/references/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/references/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/references/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/references/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/references/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/references/cmake-build-debug/CMakeFiles/references.dir/references.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/references/cmake-build-debug/CMakeFiles/references.dir/references.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/references/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/references/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/references/cmake-build-debug/references" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/references/cmake-build-debug/references" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/references/references.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/references/references.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day23_templates_catchup/string_match/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day23_templates_catchup/string_match/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day24_BST/BST/BST_main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day24_BST/BST/BST_main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day24_BST/BST/cmake-build-debug/BST" beforeDir="false" afterPath="$PROJECT_DIR$/../../day24_BST/BST/cmake-build-debug/BST" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day24_BST/BST/cmake-build-debug/BST.dSYM/Contents/Resources/DWARF/BST" beforeDir="false" afterPath="$PROJECT_DIR$/../../day24_BST/BST/cmake-build-debug/BST.dSYM/Contents/Resources/DWARF/BST" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day24_BST/BST/cmake-build-debug/CMakeFiles/BST.dir/BST_main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../day24_BST/BST/cmake-build-debug/CMakeFiles/BST.dir/BST_main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day24_BST/BST/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day24_BST/BST/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/.cmake/api/v1/reply/cache-v2-d8785efb58836670be42.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-2701fa98595e48d63d40.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0b3619020a8e4aa7a7fb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/.cmake/api/v1/reply/index-2022-05-01T04-11-02-0447.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/hash_table_c.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/hash_table_c.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/hash_table_c.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/hash_table_c.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/hash_table_c.dir/compiler_depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/hash_table_c.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/hash_table_c.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/hash_table_c.dir/hash_table.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/hash_table_c.dir/hash_table.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/hash_table_c.dir/hash_table.c.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/CMakeFiles/hash_table_c.dir/hash_table.c.o.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/hash_table_c" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/hash_table_c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/hash_tables_c.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/cmake-build-debug/hash_tables_c.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/hash_table.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../day25_hashtables/hash_table_c/hash_table.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1weTJpvfsD8LUSIWGs8kAtJ1xrV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inheritance" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Inheritance" TARGET_NAME="Inheritance" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Inheritance" RUN_TARGET_NAME="Inheritance">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="683f8dd6-f639-45c4-9399-87d0d2770a9b" name="Default Changelist" comment="" />
+      <created>1628817986746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628817986746</updated>
+      <workItem from="1628817988891" duration="121000" />
+      <workItem from="1628868183896" duration="1168000" />
+      <workItem from="1660090866750" duration="1790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/inheritance.cpp</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/inheritance.cpp</url>
+          <line>35</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

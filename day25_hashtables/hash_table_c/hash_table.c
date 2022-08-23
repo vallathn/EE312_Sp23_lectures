@@ -16,7 +16,13 @@ void init (HashTable* ht, int n) {
     ht->size = n;
     ht->buckets = (Entry**)calloc(n, sizeof(Entry*));
 }
-
+/*
+int hash(Customer* cust) {
+    long hash = 31*cust->diapers + cust->rattles + ... +
+            cust->name.hashCode();
+    return hash%size;
+}
+ */
 int hash(int n, int size) {
     return n % size;
 }

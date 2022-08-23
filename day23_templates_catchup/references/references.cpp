@@ -22,7 +22,9 @@ int main() {
     intps.push_back(a + 1);
     cout << *(shuffle(intps)) << endl;
     cout << *intps[0] << endl;
-    int l = 2;
-    int m = 3;
+    int x = 1; int y = 3;
+    cout << x << " " << y << endl;
+    foo(x, y) = 6;
+    cout << x << " " << y << endl;
     return 0;
 }

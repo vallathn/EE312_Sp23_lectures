@@ -1,0 +1,15 @@
+# ninja log v5
+0	1210	1659370398641157975	CMakeFiles/example_class_sum22.dir/main.cpp.o	a450f7eb19ceb1a0
+1212	1327	1659370398768795254	example_class_sum22	6cca3a70e24f9c0f
+2	1048	1659370429530538633	CMakeFiles/example_class_sum22.dir/main.cpp.o	a450f7eb19ceb1a0
+1049	1131	1659370429618591115	example_class_sum22	6cca3a70e24f9c0f
+3	910	1659370484217009917	CMakeFiles/example_class_sum22.dir/main.cpp.o	a450f7eb19ceb1a0
+911	986	1659370484300604183	example_class_sum22	6cca3a70e24f9c0f
+2	1082	1659370689883476459	CMakeFiles/example_class_sum22.dir/main.cpp.o	a450f7eb19ceb1a0
+1083	1167	1659370689973952308	example_class_sum22	6cca3a70e24f9c0f
+6	1142	1659370789585738183	CMakeFiles/example_class_sum22.dir/main.cpp.o	a450f7eb19ceb1a0
+1142	1238	1659370789689550580	example_class_sum22	6cca3a70e24f9c0f
+2	651	1659370814907721584	CMakeFiles/example_class_sum22.dir/main.cpp.o	a450f7eb19ceb1a0
+652	750	1659370815014865585	example_class_sum22	6cca3a70e24f9c0f
+4	906	1659370843821127973	CMakeFiles/example_class_sum22.dir/main.cpp.o	a450f7eb19ceb1a0
+906	995	1659370843916420294	example_class_sum22	6cca3a70e24f9c0f

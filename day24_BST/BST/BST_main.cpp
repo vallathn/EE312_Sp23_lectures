@@ -9,6 +9,7 @@ void printDivider() {
 
 int main() {
     BST<int> bst1;
+    BST<char> bstc;
     bst1.add(1);
     bst1.add(2);
     bst1.add(-2);
