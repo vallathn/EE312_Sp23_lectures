@@ -1,5 +1,5 @@
 CMakeFiles/TreeTraversal.dir/main.cpp.o: \
-  /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/main.cpp \
+  /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/main.cpp \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/pthread.h \
@@ -222,4 +222,4 @@ CMakeFiles/TreeTraversal.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/bitset \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__bit_reference \
-  /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/BT.h
+  /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/BT.h

@@ -25,6 +25,12 @@ public:
         delete right;
         // delete(this); // ????
     }
+
+    Node(int data, Node* l, Node* r) {
+        this->data = data;
+        this->left = l;
+        this->right = r;
+    }
 };
 
 class BT {

@@ -1,6 +1,6 @@
 CMakeFiles/TreeTraversal.dir/BT.cpp.o: \
-  /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/BT.cpp \
-  /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/BT.h \
+  /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/BT.cpp \
+  /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/BT.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/pthread.h \

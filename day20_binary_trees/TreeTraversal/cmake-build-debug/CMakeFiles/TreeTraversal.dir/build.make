@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal
+CMAKE_SOURCE_DIR = /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/TreeTraversal.dir/depend.make
@@ -72,30 +72,30 @@ include CMakeFiles/TreeTraversal.dir/flags.make
 CMakeFiles/TreeTraversal.dir/main.cpp.o: CMakeFiles/TreeTraversal.dir/flags.make
 CMakeFiles/TreeTraversal.dir/main.cpp.o: ../main.cpp
 CMakeFiles/TreeTraversal.dir/main.cpp.o: CMakeFiles/TreeTraversal.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TreeTraversal.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TreeTraversal.dir/main.cpp.o -MF CMakeFiles/TreeTraversal.dir/main.cpp.o.d -o CMakeFiles/TreeTraversal.dir/main.cpp.o -c /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TreeTraversal.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TreeTraversal.dir/main.cpp.o -MF CMakeFiles/TreeTraversal.dir/main.cpp.o.d -o CMakeFiles/TreeTraversal.dir/main.cpp.o -c /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/main.cpp
 
 CMakeFiles/TreeTraversal.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TreeTraversal.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/main.cpp > CMakeFiles/TreeTraversal.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/main.cpp > CMakeFiles/TreeTraversal.dir/main.cpp.i
 
 CMakeFiles/TreeTraversal.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TreeTraversal.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/main.cpp -o CMakeFiles/TreeTraversal.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/main.cpp -o CMakeFiles/TreeTraversal.dir/main.cpp.s
 
 CMakeFiles/TreeTraversal.dir/BT.cpp.o: CMakeFiles/TreeTraversal.dir/flags.make
 CMakeFiles/TreeTraversal.dir/BT.cpp.o: ../BT.cpp
 CMakeFiles/TreeTraversal.dir/BT.cpp.o: CMakeFiles/TreeTraversal.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TreeTraversal.dir/BT.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TreeTraversal.dir/BT.cpp.o -MF CMakeFiles/TreeTraversal.dir/BT.cpp.o.d -o CMakeFiles/TreeTraversal.dir/BT.cpp.o -c /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/BT.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TreeTraversal.dir/BT.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TreeTraversal.dir/BT.cpp.o -MF CMakeFiles/TreeTraversal.dir/BT.cpp.o.d -o CMakeFiles/TreeTraversal.dir/BT.cpp.o -c /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/BT.cpp
 
 CMakeFiles/TreeTraversal.dir/BT.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TreeTraversal.dir/BT.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/BT.cpp > CMakeFiles/TreeTraversal.dir/BT.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/BT.cpp > CMakeFiles/TreeTraversal.dir/BT.cpp.i
 
 CMakeFiles/TreeTraversal.dir/BT.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TreeTraversal.dir/BT.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/BT.cpp -o CMakeFiles/TreeTraversal.dir/BT.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/BT.cpp -o CMakeFiles/TreeTraversal.dir/BT.cpp.s
 
 # Object files for target TreeTraversal
 TreeTraversal_OBJECTS = \
@@ -109,7 +109,7 @@ TreeTraversal: CMakeFiles/TreeTraversal.dir/main.cpp.o
 TreeTraversal: CMakeFiles/TreeTraversal.dir/BT.cpp.o
 TreeTraversal: CMakeFiles/TreeTraversal.dir/build.make
 TreeTraversal: CMakeFiles/TreeTraversal.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable TreeTraversal"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable TreeTraversal"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TreeTraversal.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -121,6 +121,6 @@ CMakeFiles/TreeTraversal.dir/clean:
 .PHONY : CMakeFiles/TreeTraversal.dir/clean
 
 CMakeFiles/TreeTraversal.dir/depend:
-	cd /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/CMakeFiles/TreeTraversal.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/CMakeFiles/TreeTraversal.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/TreeTraversal.dir/depend
 

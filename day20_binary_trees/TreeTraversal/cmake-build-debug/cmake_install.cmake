@@ -1,4 +1,4 @@
-# Install script for directory: /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal
+# Install script for directory: /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

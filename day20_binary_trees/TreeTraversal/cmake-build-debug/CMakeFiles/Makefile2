@@ -54,10 +54,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal
+CMAKE_SOURCE_DIR = /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/TreeTraversal.dir/clean
 CMakeFiles/TreeTraversal.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TreeTraversal.dir/build.make CMakeFiles/TreeTraversal.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TreeTraversal.dir/build.make CMakeFiles/TreeTraversal.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target TreeTraversal"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target TreeTraversal"
 .PHONY : CMakeFiles/TreeTraversal.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/TreeTraversal.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/TreeTraversal.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/vn2783/github_repos/EE312_Sum_22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/vn2783/github_repos/EE312_Fa22_lectures/day20_binary_trees/TreeTraversal/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/TreeTraversal.dir/rule
 
 # Convenience name for target.
