@@ -1,6 +1,6 @@
 EE 312 Day 4
 
-review array function code from last class
+Finish array function code from last class
 Ask about project 1
 pointer slides
 stack slides

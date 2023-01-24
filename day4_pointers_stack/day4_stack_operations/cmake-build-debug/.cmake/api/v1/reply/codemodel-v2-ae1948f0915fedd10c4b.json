@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.13"
+						"string" : "3.6"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "sizeOf_test",
+					"name" : "day5_stack_operations",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "sizeOf_test::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-sizeOf_test-Debug-64075c6534f6c7fdb018.json",
-					"name" : "sizeOf_test",
+					"id" : "day4_stack_operations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-day4_stack_operations-Debug-2e8f620baea17a99c402.json",
+					"name" : "day4_stack_operations",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/sizeOf_test/cmake-build-debug",
-		"source" : "/Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/sizeOf_test"
+		"build" : "/Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug",
+		"source" : "/Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations"
 	},
 	"version" : 
 	{

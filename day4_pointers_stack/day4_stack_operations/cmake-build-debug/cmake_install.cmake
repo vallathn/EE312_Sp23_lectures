@@ -1,4 +1,4 @@
-# Install script for directory: /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations
+# Install script for directory: /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

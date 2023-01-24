@@ -54,10 +54,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations
+CMAKE_SOURCE_DIR = /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/day4_stack_operations.dir/clean
 CMakeFiles/day4_stack_operations.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/day4_stack_operations.dir/build.make CMakeFiles/day4_stack_operations.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/day4_stack_operations.dir/build.make CMakeFiles/day4_stack_operations.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target day4_stack_operations"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target day4_stack_operations"
 .PHONY : CMakeFiles/day4_stack_operations.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/day4_stack_operations.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/day4_stack_operations.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/day4_stack_operations.dir/rule
 
 # Convenience name for target.

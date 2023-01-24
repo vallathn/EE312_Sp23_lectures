@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/stack_operations.c" "CMakeFiles/day4_stack_operations.dir/stack_operations.c.o" "gcc" "CMakeFiles/day4_stack_operations.dir/stack_operations.c.o.d"
+  "/Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/stack_operations.c" "CMakeFiles/day4_stack_operations.dir/stack_operations.c.o" "gcc" "CMakeFiles/day4_stack_operations.dir/stack_operations.c.o.d"
   )
 
 # Targets to which this target links.

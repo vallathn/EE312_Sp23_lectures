@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations
+CMAKE_SOURCE_DIR = /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/day4_stack_operations.dir/depend.make
@@ -72,16 +72,16 @@ include CMakeFiles/day4_stack_operations.dir/flags.make
 CMakeFiles/day4_stack_operations.dir/stack_operations.c.o: CMakeFiles/day4_stack_operations.dir/flags.make
 CMakeFiles/day4_stack_operations.dir/stack_operations.c.o: ../stack_operations.c
 CMakeFiles/day4_stack_operations.dir/stack_operations.c.o: CMakeFiles/day4_stack_operations.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/day4_stack_operations.dir/stack_operations.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/day4_stack_operations.dir/stack_operations.c.o -MF CMakeFiles/day4_stack_operations.dir/stack_operations.c.o.d -o CMakeFiles/day4_stack_operations.dir/stack_operations.c.o -c /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/stack_operations.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/day4_stack_operations.dir/stack_operations.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/day4_stack_operations.dir/stack_operations.c.o -MF CMakeFiles/day4_stack_operations.dir/stack_operations.c.o.d -o CMakeFiles/day4_stack_operations.dir/stack_operations.c.o -c /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/stack_operations.c
 
 CMakeFiles/day4_stack_operations.dir/stack_operations.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/day4_stack_operations.dir/stack_operations.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/stack_operations.c > CMakeFiles/day4_stack_operations.dir/stack_operations.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/stack_operations.c > CMakeFiles/day4_stack_operations.dir/stack_operations.c.i
 
 CMakeFiles/day4_stack_operations.dir/stack_operations.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/day4_stack_operations.dir/stack_operations.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/stack_operations.c -o CMakeFiles/day4_stack_operations.dir/stack_operations.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/stack_operations.c -o CMakeFiles/day4_stack_operations.dir/stack_operations.c.s
 
 # Object files for target day4_stack_operations
 day4_stack_operations_OBJECTS = \
@@ -93,7 +93,7 @@ day4_stack_operations_EXTERNAL_OBJECTS =
 day4_stack_operations: CMakeFiles/day4_stack_operations.dir/stack_operations.c.o
 day4_stack_operations: CMakeFiles/day4_stack_operations.dir/build.make
 day4_stack_operations: CMakeFiles/day4_stack_operations.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable day4_stack_operations"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable day4_stack_operations"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/day4_stack_operations.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -105,6 +105,6 @@ CMakeFiles/day4_stack_operations.dir/clean:
 .PHONY : CMakeFiles/day4_stack_operations.dir/clean
 
 CMakeFiles/day4_stack_operations.dir/depend:
-	cd /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug /Users/vn2783/github_repos/EE312_Sum_22_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/CMakeFiles/day4_stack_operations.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug /Users/vallathn/EE312_Sp23_lectures/day4_pointers_stack/day4_stack_operations/cmake-build-debug/CMakeFiles/day4_stack_operations.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/day4_stack_operations.dir/depend
 
