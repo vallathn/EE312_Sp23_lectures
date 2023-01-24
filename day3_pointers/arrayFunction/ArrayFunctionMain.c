@@ -3,7 +3,7 @@
 // char upper[1000];
 #include "arrayFunction.h"
 int main() {
- /*   int a = 3;
+    int a = 3;
     printf("Storage size for int: %lu \n", sizeof(int));
     printf("Storage size for int: %lu \n", sizeof(a));
     printf("Storage size for pointer: %lu \n", sizeof(&a));
@@ -13,7 +13,7 @@ int main() {
     printf("Storage size for char array: %lu \n", sizeof(str2));
 
     char* str3 = "abcde";
-    printf("Storage size for str3 string: %lu \n", sizeof(str3));*/
+    printf("Storage size for str3 string: %lu \n", sizeof(str3));
 
     char in [] = "abdcE";
     char* b = "123";

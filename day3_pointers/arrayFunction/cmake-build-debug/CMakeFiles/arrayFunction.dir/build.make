@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction
+CMAKE_SOURCE_DIR = /Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/arrayFunction.dir/depend.make
@@ -72,30 +72,30 @@ include CMakeFiles/arrayFunction.dir/flags.make
 CMakeFiles/arrayFunction.dir/arrayFunction.c.o: CMakeFiles/arrayFunction.dir/flags.make
 CMakeFiles/arrayFunction.dir/arrayFunction.c.o: ../arrayFunction.c
 CMakeFiles/arrayFunction.dir/arrayFunction.c.o: CMakeFiles/arrayFunction.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/arrayFunction.dir/arrayFunction.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/arrayFunction.dir/arrayFunction.c.o -MF CMakeFiles/arrayFunction.dir/arrayFunction.c.o.d -o CMakeFiles/arrayFunction.dir/arrayFunction.c.o -c /Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction/arrayFunction.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/arrayFunction.dir/arrayFunction.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/arrayFunction.dir/arrayFunction.c.o -MF CMakeFiles/arrayFunction.dir/arrayFunction.c.o.d -o CMakeFiles/arrayFunction.dir/arrayFunction.c.o -c /Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction/arrayFunction.c
 
 CMakeFiles/arrayFunction.dir/arrayFunction.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/arrayFunction.dir/arrayFunction.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction/arrayFunction.c > CMakeFiles/arrayFunction.dir/arrayFunction.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction/arrayFunction.c > CMakeFiles/arrayFunction.dir/arrayFunction.c.i
 
 CMakeFiles/arrayFunction.dir/arrayFunction.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/arrayFunction.dir/arrayFunction.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction/arrayFunction.c -o CMakeFiles/arrayFunction.dir/arrayFunction.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction/arrayFunction.c -o CMakeFiles/arrayFunction.dir/arrayFunction.c.s
 
 CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.o: CMakeFiles/arrayFunction.dir/flags.make
 CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.o: ../ArrayFunctionMain.c
 CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.o: CMakeFiles/arrayFunction.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.o -MF CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.o.d -o CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.o -c /Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction/ArrayFunctionMain.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.o -MF CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.o.d -o CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.o -c /Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction/ArrayFunctionMain.c
 
 CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction/ArrayFunctionMain.c > CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction/ArrayFunctionMain.c > CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.i
 
 CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction/ArrayFunctionMain.c -o CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction/ArrayFunctionMain.c -o CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.s
 
 # Object files for target arrayFunction
 arrayFunction_OBJECTS = \
@@ -109,7 +109,7 @@ arrayFunction: CMakeFiles/arrayFunction.dir/arrayFunction.c.o
 arrayFunction: CMakeFiles/arrayFunction.dir/ArrayFunctionMain.c.o
 arrayFunction: CMakeFiles/arrayFunction.dir/build.make
 arrayFunction: CMakeFiles/arrayFunction.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable arrayFunction"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable arrayFunction"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/arrayFunction.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -121,6 +121,6 @@ CMakeFiles/arrayFunction.dir/clean:
 .PHONY : CMakeFiles/arrayFunction.dir/clean
 
 CMakeFiles/arrayFunction.dir/depend:
-	cd /Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction /Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction /Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction/cmake-build-debug /Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction/cmake-build-debug /Users/vn2783/github_repos/EE312_Sum_22_lectures/day3_pointers/arrayFunction/cmake-build-debug/CMakeFiles/arrayFunction.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction /Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction /Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction/cmake-build-debug /Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction/cmake-build-debug /Users/vallathn/EE312_Sp23_lectures/day3_pointers/arrayFunction/cmake-build-debug/CMakeFiles/arrayFunction.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/arrayFunction.dir/depend
 
