@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "arrayFunction"
+			"path" : "sizeOf_test"
 		}
 	],
 	"backtrace" : 1,
@@ -24,7 +24,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 7,
+				"line" : 6,
 				"parent" : 0
 			}
 		]
@@ -35,10 +35,10 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk"
+					"fragment" : "-g -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk"
 				},
 				{
-					"fragment" : "-std=gnu99"
+					"fragment" : "-std=gnu11"
 				}
 			],
 			"language" : "C",
@@ -48,16 +48,15 @@
 				[
 					1
 				],
-				"standard" : "99"
+				"standard" : "11"
 			},
 			"sourceIndexes" : 
 			[
-				1,
-				2
+				0
 			]
 		}
 	],
-	"id" : "arrayFunction::@6890427a1f51a3e7e1df",
+	"id" : "sizeOf_test::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -73,8 +72,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "arrayFunction",
-	"nameOnDisk" : "arrayFunction",
+	"name" : "sizeOf_test",
+	"nameOnDisk" : "sizeOf_test",
 	"paths" : 
 	{
 		"build" : ".",
@@ -83,18 +82,10 @@
 	"sourceGroups" : 
 	[
 		{
-			"name" : "Header Files",
-			"sourceIndexes" : 
-			[
-				0
-			]
-		},
-		{
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				1,
-				2
+				0
 			]
 		}
 	],
@@ -102,20 +93,9 @@
 	[
 		{
 			"backtrace" : 1,
-			"path" : "arrayFunction.h",
+			"compileGroupIndex" : 0,
+			"path" : "sizeOf.c",
 			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "arrayFunction.c",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "ArrayFunctionMain.c",
-			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"
