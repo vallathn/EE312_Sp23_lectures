@@ -1,2 +1,4 @@
 Continue heap slides from last lecture.
+Do stack operations from day 4.
+Talk about stack
 Do  matrix_code.
