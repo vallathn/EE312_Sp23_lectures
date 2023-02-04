@@ -1,8 +1,6 @@
-
 Const slides
-For AM: Show struct return, Complex struct
+Show include files
 Show pre-processor 
 gcc -E in.c -o in.i
-AM Hitter program outline
-PM Hitter program whole thing
-Drinking Age program
+Hitter program
+Drinking age if time permits
