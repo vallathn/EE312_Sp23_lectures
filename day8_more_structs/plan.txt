@@ -1,6 +1,3 @@
 Const slides
-Show include files
-Show pre-processor 
-gcc -E in.c -o in.i
 Hitter program
 Drinking age if time permits
