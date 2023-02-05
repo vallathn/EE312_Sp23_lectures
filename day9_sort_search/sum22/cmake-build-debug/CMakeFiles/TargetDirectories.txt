@@ -1,3 +1,0 @@
-/Users/vn2783/github_repos/EE312_Sum_22_lectures/day9_sort_search/sum22/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/vn2783/github_repos/EE312_Sum_22_lectures/day9_sort_search/sum22/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/vn2783/github_repos/EE312_Sum_22_lectures/day9_sort_search/sum22/cmake-build-debug/CMakeFiles/sum22.dir
