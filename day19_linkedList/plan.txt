@@ -1,3 +1,5 @@
+Do linkedlist in CPP.
+Show recursive methods of linked list functions instead of iterative.
 1. Ask them to write Node* recursive_copy(Node* other)
 
     Node* recursive_copy(Node* other) {
@@ -10,3 +12,29 @@
 
 2. Finish LinkedList
 3. Go over recursion hints
+
+4. https://leetcode.com/problems/reverse-linked-list/
+
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     struct ListNode *next;
+ * };
+ */
+
+
+struct ListNode* reverseList(struct ListNode* head){
+    if (head == 0)
+        return 0;
+    if (head->next == 0)
+        return head;
+    struct ListNode* rest = head->next;
+    head->next = 0;
+    struct ListNode* reversed = reverseList(rest);
+    rest->next = head;
+    return reversed;
+
+}
+
+Make them write out the linked list diagram, with the variables in each iteration, for 3 nodes.

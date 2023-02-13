@@ -1,3 +1,5 @@
-
+Show ragged arrays.
 Show slides for heap and malloc.
 Write code malloc_operations
+Explain arrays on stack vs arrays on heap
+
