@@ -1,14 +1,11 @@
-EE 312, Fall 2022 Day 12 catchup
+EE 312, Spring 2023 Day 12 catchup
 1. Write void sum( // 2 ints + buffer of sum
 2. merge 2 sorted arrays, void method
 3. LinkedList
 
 
-
 Stack_structure // in review
 Explain deep and shallow copy of structs, and explain how array variables cannot be reassigned. // in review
-merge_sorted_arrays
 static variables
 function pointers
 LinkedList
-For morning, do the Big-O examples that we did not complete from the last lecture.
