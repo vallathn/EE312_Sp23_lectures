@@ -1,0 +1,7 @@
+
+Big-0
+
+a) Simple logarithm
+b) Bubble sort
+c) j, k go up one by one
+d) fun(N) returns sqrt(N), and is O(sqrt(N))

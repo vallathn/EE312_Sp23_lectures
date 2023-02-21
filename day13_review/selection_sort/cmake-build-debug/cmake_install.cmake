@@ -1,4 +1,4 @@
-# Install script for directory: /Users/vallathn/EE312_Fa22_lectures/day13_review/selection_sort
+# Install script for directory: /Users/vn2783/github_repos/EE312_Sp23_lectures/day13_review/selection_sort
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/vallathn/EE312_Fa22_lectures/day13_review/selection_sort/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/vn2783/github_repos/EE312_Sp23_lectures/day13_review/selection_sort/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
